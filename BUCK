@@ -1,6 +1,6 @@
 cxx_library(
   name = 'trim',
-  header_namespace = '',
+  header_namespace = 'trim',
   exported_headers = [
     'trim.h',
   ],
