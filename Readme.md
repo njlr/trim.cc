@@ -5,7 +5,13 @@
 
 ## Installation
 
+
+
     $ clib install littlstar/trim.cc
+
+or... 
+
+    $ buckaroo install littlstar/trim
 
 ## API
 
