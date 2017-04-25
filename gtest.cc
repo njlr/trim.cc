@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 #include <string>
-#include <trim.h>
+#include <trim/trim.h>
 
 using namespace littlstar;
 
