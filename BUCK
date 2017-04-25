@@ -21,13 +21,3 @@ cxx_binary(
     ':trim',
   ],
 )
-
-cxx_test(
-  name = 'gtest',
-  srcs = [
-    'gtest.cc',
-  ],
-  deps = [
-    ':trim',
-  ],
-)
